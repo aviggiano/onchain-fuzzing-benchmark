@@ -1,0 +1,7 @@
+testMode: optimization
+stopOnFail: true
+shrinkLimit: 0
+prefix: echidna_
+testLimit: 1000000
+rpcUrl: https://eth.llamarpc.com/<YOUR_API_KEY>
+rpcBlock: 15725066
